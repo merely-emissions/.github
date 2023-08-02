@@ -1,7 +1,5 @@
 # Merely Emissions 🌍💚
 
-![Merely Emissions Logo](https://media.licdn.com/dms/image/D4D0BAQEWEN3d7oBxxg/company-logo_100_100/0/1681930371313?e=1698883200&v=beta&t=Ow_YA6zjlc9XD_szUXiODjStHARyqUxF89pQCrJKyD8)
-
 Merely Emissions is a state-of-the-art tool designed to help organizations assess and minimize their website emissions. As a response to the growing need for climate-friendly solutions in the digital industry, we are pioneering the way to a greener and more sustainable internet.
 
 ## Our Mission 🚀
